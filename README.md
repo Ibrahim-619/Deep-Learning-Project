@@ -6,7 +6,7 @@ A deep learning project that predicts whether an online game player
 is at risk of churning (quitting) based on their in-game behavior.
 
 ## 📊 Dataset
-- 100,034 player records (40,034 original + 60,000 simulated)
+- 100,034 player records
 - Source: Online Gaming Behavior Dataset
 
 ## 🧠 Model
